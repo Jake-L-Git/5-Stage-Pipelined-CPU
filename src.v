@@ -1,23 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: PSU CMPEN 331
-// Engineer: John Licata - jbl6429
-// 
-// Create Date: 03/24/2025 04:41:04 PM
-// Design Name: 
-// Module Name: src
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 
 
 module programCounter(
